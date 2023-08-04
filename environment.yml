@@ -1,0 +1,16 @@
+name: tutorial-env
+channels:
+  - defaults
+  - anaconda
+  - conda-forge 
+dependencies:
+  - numpy
+  - pandas
+  - geopandas
+  - matplotlib
+  - seaborn
+  - mpi4py
+  - scipy
+  - prettyprinter
+  - jupyter
+  - openpyxl
